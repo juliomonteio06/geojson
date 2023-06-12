@@ -1,0 +1,14 @@
+{
+    "type": "Feature",
+    "properties": {
+        "line": "2-5",
+        "name": "PCI"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -8.667492,
+           40.619310 
+        ]
+    }
+}
